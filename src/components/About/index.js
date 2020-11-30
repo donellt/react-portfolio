@@ -5,7 +5,7 @@ function About() {
     <section className="my-5">
       <div className="my-2">
         <div className="profile-img my-5">
-        <i className="fas fa-user-circle" style={{ fontSize: "96px" }}></i>
+        <a href="https://ibb.co/7KTwfzT"><img src="https://i.ibb.co/89RWCBR/profile-png.png" alt="profile-png" border="0" width="150"/></a>
         </div>
         <p>
         Hello and welcome to my portfolio! On this webpage, you will learn about my work experiences, past projects, and get a feel for the kind of worker and person I am.        </p>
